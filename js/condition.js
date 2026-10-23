@@ -43,7 +43,7 @@ switch(choix) {
     default:
         console.log("option invalide");
 }
-*/
+
 let mois = "août";
 switch (mois) {
     case ("décembre"):
@@ -68,4 +68,4 @@ switch (mois) {
         break;
     default:
         console.log("option invalide");
-}
+}*/
