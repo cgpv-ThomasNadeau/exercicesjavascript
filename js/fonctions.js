@@ -53,12 +53,10 @@ function message(){
     alert(`bonjour ${nom} ${prenom}, je sais ou tu habite... `)
 }
 
-log("");
+// log("");
 
-saison("août")
+// saison("août")
 
-if(estMajeur(17)) {
-    console.log("Vous pouvez entrer")
-}
-
-
+// if(estMajeur(17)) {
+//     console.log("Vous pouvez entrer")
+// } 
